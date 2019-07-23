@@ -1,0 +1,16 @@
+img{
+    height:300px;
+    width:300px;
+    margin:3px;
+    transition: all 4s;
+}
+h1{
+    color:red;
+    text-align:center;
+    font-size:60px;
+    font-family: 'Geostar', cursive;
+    border-bottom:3px solid blue;
+}
+img:hover{
+    transform:scale(1.2);
+}
